@@ -9,6 +9,7 @@ fetch("/api/transaction")
     // save db data on global variable
     transactions = data;
 
+    
     populateTotal();
     populateTable();
     populateChart();
