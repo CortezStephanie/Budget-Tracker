@@ -2,6 +2,9 @@
 
 #  Budget Tracker
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This application was deployed through heroku [click here](https://budget-tracker-off-online.herokuapp.com/) to open the app!!
+
 ##  Add transactions online or offline with this budget tracker. 
 ### Table of contents
 - [Installation](#installation)
@@ -19,8 +22,5 @@ https://opensource.org/licenses/MIT
 Ethan Cho, Chuck Stephens
 #### Test Instructions
 none
-#### Deployment
-This application was deployed to heroku [click here](https://budget-tracker-off-online.herokuapp.com/) to open the app!!
 ##### Questions
-If you have any questions please feel free to contact me at cortezstephanie2222@yahoo.com <br>
-GitHub: CortezStephanie 
+If you have any questions please feel free to contact me through GitHub: [CortezStephanie](https://github.com/CortezStephanie)
