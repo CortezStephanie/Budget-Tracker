@@ -15,6 +15,7 @@ This application was deployed through heroku [click here](https://budget-tracker
 `npm i` to install all packages
 ### Usage
 Add or subtract transactions. When you are offline your transactions will be cache. Once back online it will transfer over. 
+![budget Tracker](./public/images/budgetTracker.png)
 ## License
 This repository is covered by the MIT License  <br> 
 https://opensource.org/licenses/MIT
